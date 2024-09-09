@@ -5,4 +5,5 @@ seaborn
 scikit-learn
 xgboost
 dill
+Flask==2.3.2
 # -e .
