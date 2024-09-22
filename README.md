@@ -23,8 +23,8 @@ python app.py
 
 File Structure
 
-src/: Core logic and data preprocessing scripts.
-templates/: HTML files for the web app.
-app.py: Main Flask app.
-requirements.txt: Python dependencies.
-setup.py: Package configuration.
+1. src/:Core logic and data preprocessing scripts.
+2. templates/: HTML files for the web app.
+3. app.py: Main Flask app.
+4. requirements.txt: Python dependencies.
+5. setup.py: Package configuration.
